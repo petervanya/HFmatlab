@@ -1,2 +1,4 @@
 # HFmatlab
-Closed-shell Hartree-Fock approximation in Matlab
+Hartree-Fock approximation
+
+Simple closed shell version in Matlab for two atoms.
